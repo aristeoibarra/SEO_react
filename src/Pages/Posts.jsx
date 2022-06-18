@@ -16,7 +16,7 @@ export default function Posts() {
             content="Posts - description"
           ></meta>
           <meta name="author" content="React" />
-          <link rel="canonical" href="http://mysite.com/example" />
+          <link rel="canonical" href="https://seo.telloim.com" />
         </Helmet>
       </HelmetProvider>
 
